@@ -7,6 +7,7 @@ This project implements a gamification for exercising such that the user is enco
 Different activities are associated with a specific number of health points and hedons.  
 Moreover, users can gain stars which will increase the number of hedons they gain for the activity. Here, users can also lose interest in stars once they gain too much of them.  
 The different activities include running, resting, carrying textbooks, where the time duration of the activitiy is also relevent.  
+
 The set of rules provided by Professor Guerzhoy are:
 - The user starts out with 0 health points, and 0 hedons.
 - The user is always either running, carrying textbooks, or resting.

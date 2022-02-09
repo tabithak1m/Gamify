@@ -1,7 +1,7 @@
 # Gamify: Gamification of Exercise
 
 ESC180 Project:      
-*Gamification* is using game elements such as stars and points to activities that are not games.  
+  *Gamification* is using game elements such as stars and points to activities that are not games.  
 This project implements a gamification for exercising such that the user is encouraged to exercise more.  
 Different activities are associated with a specific number of health points and hedons.  
 Moreover, users can gain stars which will increase the number of hedons they gain for the activity. Here, users can also lose interest in stars once they gain too much of them.  

@@ -16,8 +16,8 @@ The set of rules provided by Professor Guerzhoy are:
 - If the user is not tired, running gives 2 hedons per minute for the first 10 minutes of running, and -2 hedons per minute for every minute after the first 10.
 - If the user is not tired, carrying textbooks gives 1 hedon per minute for the first 20 minutes, and -1 hedon per minute for every minute after the first 20.
 - If a star is offered for a particular activity and the user takes the star right away, the user gets an additional 3 hedons per minute for at most 10 minutes. Note that the user only gets 3 hedons per minute for the first activity they undertake, and do not get the hedons due to the star if they decide to keep performing the activity:  
-`offer_star("running")  
-perform_activity("running", 5) # gets extra hedons  
-perform_activity("running", 2) # no extra hedons`  
+`offer_star("running")`  
+`perform_activity("running", 5) # gets extra hedons`    
+`perform_activity("running", 2) # no extra hedons`  
 - If three stars are offered within the span of 2 hours, the user loses interest, and will not get additional
 hedons due to stars for the rest of the simulation.

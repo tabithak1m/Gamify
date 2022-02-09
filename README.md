@@ -1,6 +1,6 @@
 # Gamify: Gamification of Exercise
 
-###ESC180 Project:
+### ESC180 Project:
 
 *Gamification* is using game elements such as stars and points to activities that are not games.  
 This project implements a gamification for exercising such that the user is encouraged to exercise more.  
